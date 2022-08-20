@@ -1,0 +1,1 @@
+-db C:\db\LPFSEC\LPFSEC.db -H 127.0.0.1 -S 9001 -ld LPFSEC

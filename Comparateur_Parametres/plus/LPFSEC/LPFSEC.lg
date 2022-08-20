@@ -1,0 +1,1407 @@
+
+                Wed Jul 13 15:27:31 2022
+[2022/07/13@15:27:31.155+0100] P-13872      T-13960 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2022/07/13@15:27:31.156+0100] P-13872      T-13960 I DBUTIL   : (451)   Début de session prostrct create pour l'utilisateur yassi sur CON:. 
+[2022/07/13@15:27:31.158+0100] P-13872      T-13960 I DBUTIL   : (19399) Database with large file support enabled is being opened under sub-Enterprise license.  Large file support will be disabled. 
+[2022/07/13@15:27:31.159+0100] P-13872      T-13960 I DBUTIL   : (12862) Fichier structure C:\db\LPFSEC\LPFSEC.st est utilisé pour créer la base de données avec une taille de block 4096. 
+[2022/07/13@15:27:31.207+0100] P-13872      T-13960 I DBUTIL   : (334)    Fin de la session prostrct create. 
+[2022/07/13@15:27:31.247+0100] P-13872      T-13960 I DBUTIL   : (451)   Début de session procopy pour l'utilisateur yassi sur CON:. 
+[2022/07/13@15:27:31.454+0100] P-13872      T-13960 I DBUTIL   : (334)    Fin de la session procopy. 
+
+                Wed Jul 13 15:27:31 2022
+[2022/07/13@15:27:31.514+0100] P-13872      T-13960 I DBUTIL   : (451)   Début de session procopy get default SQL DBA pour l'utilisateur yassi sur CON:. 
+[2022/07/13@15:27:31.515+0100] P-13872      T-13960 I DBUTIL   : (15321) Avant l'initialisation du journal d'image dans le bloc 0  avec un décalage 0. 
+[2022/07/13@15:27:31.740+0100] P-13872      T-13960 I DBUTIL   : (14867) Procopy -newinstance a créé un GUID de base de données. 
+[2022/07/13@15:27:31.858+0100] P-13872      T-13960 I DBUTIL   : (15109) A la fermeture de la base de données, le nombre de transactions actives est 0. 
+[2022/07/13@15:27:31.858+0100] P-13872      T-13960 I DBUTIL   : (15743) Fin du journal before-image au bloc 0, offset 2623. 
+[2022/07/13@15:27:31.884+0100] P-13872      T-13960 I DBUTIL   : (334)    Fin de la session procopy get default SQL DBA. 
+
+                Wed Jul 13 15:27:33 2022
+[2022/07/13@15:27:33.362+0100] P-4688       T-10428 I ABL      : (451)   Début de session Single-user pour l'utilisateur yassi sur CON:. 
+[2022/07/13@15:27:33.362+0100] P-4688       T-10428 I ABL      : (15321) Avant l'initialisation du journal d'image dans le bloc 0  avec un décalage 2623. 
+[2022/07/13@15:27:33.375+0100] P-4688       T-10428 I ABL      : (7129)  Usr 0 défini le nom à yassi. 
+[2022/07/13@15:27:57.534+0100] P-4688       T-10428 I ABL      : (15109) A la fermeture de la base de données, le nombre de transactions actives est 0. 
+[2022/07/13@15:27:57.534+0100] P-4688       T-10428 I ABL      : (15743) Fin du journal before-image au bloc 12, offset 3436. 
+[2022/07/13@15:27:57.554+0100] P-4688       T-10428 I ABL      : (334)    Fin de la session Single-user. 
+
+                Wed Jul 13 15:29:45 2022
+[2022/07/13@15:29:45.427+0100] P-13392      T-13412 I BROKER  0: (333)    Début de la session Multi-Utilisateurs. 
+[2022/07/13@15:29:45.429+0100] P-13392      T-13412 I BROKER  0: (15321) Avant l'initialisation du journal d'image dans le bloc 12  avec un décalage 3436. 
+[2022/07/13@15:29:46.287+0100] P-13392      T-13412 I BROKER  0: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/13@15:29:46.291+0100] P-13392      T-13412 I BROKER  0: (4393)  Cette licence serveur n'est prévue que pour des connexions locales. 
+[2022/07/13@15:29:46.301+0100] P-13392      T-13412 I BROKER  0: (5644)  Démarrage de 9001 en utilisant TCP IPV4 address 127.0.0.1, pid 13392. 
+[2022/07/13@15:29:46.302+0100] P-13392      T-13412 I BROKER  0: (19117) Licence d'utilisation de cette installation accordée à : HP par C:\Progress\OpenEdge\progress.cfg 
+[2022/07/13@15:29:46.302+0100] P-13392      T-13412 I BROKER  0: (19116) Produit : Progress Dev Studio OE installé, numéro de série : 6246602 expiration : 08/16/2022. 
+[2022/07/13@15:29:46.302+0100] P-13392      T-13412 I BROKER  0: (4234)  Progress OpenEdge Release 12.5 build 1175 sur WINNT . 
+[2022/07/13@15:29:46.302+0100] P-13392      T-13412 I BROKER  0: (19552) Broker with server num 0 logged in. 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (4281)  Serveur lancé par yassi sur CON:. 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (6574)  Démarrage de l'utilisation du pid : 13392. 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (15219) Chiffrement activé : 0 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (15824) Multi-tenancy activé :0 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (15824) Table Partitioning activé :0 
+[2022/07/13@15:29:46.303+0100] P-13392      T-13412 I BROKER  0: (15824) Authentication Gateway activé :0 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (19388) LRU mechanism enabled. 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (4282)  Fichier paramètre : Not Enabled. 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (9336)  La mémoire partagée a été créée avec segment_id : 1. 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (4250)  Taille de cluster avant image (BI) : 524288. 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (4251)  Taille du bloc avant image (BI) : 8192. 
+[2022/07/13@15:29:46.304+0100] P-13392      T-13412 I BROKER  0: (4255)  Taille de blocs après image (AI) : 8192. 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (13873) Liste des répertoires d'archivage de gestion After-image (-aiarcdir) : Not Enabled. 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (13874) Créer le ou les répertoires d'archivage de gestion After-image (-aiarcdircreate) : Not Enabled. 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (13872) Intervalle d'archivage de gestion After-image (-aiarcinterval) : -1. 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (4256)  Nombre de tampons After-Image (-aibufs) : 64 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (4254)  Arrêt après image (AI) (-aistall) : Not Enabled. 
+[2022/07/13@15:29:46.305+0100] P-13392      T-13412 I BROKER  0: (17555) Numéro d'index de début pour la plage de statistiques (-baseindex) : 1. 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (19091) Numéro LOB de début pour la plage de statistiques (-baselob) : 1 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (17554) Numéro de table de début pour la plage de statistiques (-basetable) : 1. 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (18406) Numéro d'index de début par utilisateur pour la plage de statistiques (-baseuserindex) : 1 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (19092) Numéro LOB de début par utilisateur pour la plage de statistiques (-baseuserlob) : 1 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (18404) Numéro de table de début par utilisateur pour la plage de statistiques (-baseusertable) : 1 
+[2022/07/13@15:29:46.306+0100] P-13392      T-13412 I BROKER  0: (4252)  Nombre de mémoire tampon avant image (BI) (-bibufs) : 64. 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (20052) BI Scan Time (-biscantime): 10 seconds 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (6552)  Arrêt seuil du fichier BI (-bistall) : Désactivé. 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (9238)  Taille seuil du fichier BI (-bithold) : 0.0   Bytes. 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2022/07/13@15:29:46.307+0100] P-13392      T-13412 I BROKER  0: (12813) Curseurs d'index autorisés (-c) : 84. 
+[2022/07/13@15:29:46.308+0100] P-13392      T-13412 I BROKER  0: (18495) Taille du cache CDC (-cdcsize) : 200ko 
+[2022/07/13@15:29:46.308+0100] P-13392      T-13412 I BROKER  0: (12265) Chemin de stockage du certificat SSL (-certstorepath) : Not Enabled 
+[2022/07/13@15:29:46.308+0100] P-13392      T-13412 I BROKER  0: (4264)  Jeu de caractères (-cpinternal) : ISO8859-1. 
+[2022/07/13@15:29:46.308+0100] P-13392      T-13412 I BROKER  0: (19442) C stack print option (-cstackPrintopt): 0 
+[2022/07/13@15:29:46.308+0100] P-13392      T-13412 I BROKER  0: (4235)  Nom physique de la base de données (-db) : LPFSEC. 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (19519) Number of DB Notification Operations (-dbnotifyops): 16 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (19511) DB Notification Time (-dbnotifytime): 30 seconds 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (18558) Répertoire de diagnostic (-diagDir) : Not Enabled 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (18576) Valeur d'événements de diagnostic (-diagEvent) : LockTable:0,BiThold:0,SysErr:0 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (18560) Niveau d'événement de diagnostic (-diagEvtLevel) : 0 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (18561) Séparateur de champ de diagnostic (-diagFS) : ' ' 
+[2022/07/13@15:29:46.309+0100] P-13392      T-13412 I BROKER  0: (18579) Format de données de diagnostic (-diagFormat) : csv 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (18562) Longueur de pause de diagnostic (-diagPause) : 0 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (18563) Valeur de préfixe de diagnostic (-diagPrefix) : diagEvent_ 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (18580) Procédure de diagnostic (-diagProc) : Not Enabled 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (4238)  E/S Direct (-directio) : Not Enabled. 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (4236)  Type de la base de données (-dt) : PROGRESS. 
+[2022/07/13@15:29:46.310+0100] P-13392      T-13412 I BROKER  0: (15218) Taille du cache de chiffrement (-ecsize) : 1000 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (12814) Délai de groupe (-groupdelay) : 10 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (4242)  Entrée de la table de hachage (-hash) : 887. 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (19195) Pourcentage Latch de table de hachage du pool tampon (-hashLatchFactor) : 10 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (4244)  Protection en cas d'incident (-i) : Enabled. 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (17557) Nombre d'index inclus dans la collecte de statistiques : (-indexrangesize) 50. 
+[2022/07/13@15:29:46.311+0100] P-13392      T-13412 I BROKER  0: (14268) Version TCP/IP (-ipver) : IPV4 
+[2022/07/13@15:29:46.312+0100] P-13392      T-13412 I BROKER  0: (12263) Nom de l'alias de clé SSL (-keyalias) : Not Enabled 
+[2022/07/13@15:29:46.312+0100] P-13392      T-13412 I BROKER  0: (19216) Répertoire d'archivage du fichier journal de la base de données (-lgArchiveDir) : Not Enabled 
+[2022/07/13@15:29:46.312+0100] P-13392      T-13412 I BROKER  0: (19215) Archiver le fichier journal de la base de données avant troncation (-lgArchiveEnable) : Not Enabled 
+[2022/07/13@15:29:46.312+0100] P-13392      T-13412 I BROKER  0: (19213) Fréquence de troncation du fichier journal de la base de données (-lgTruncateFrequency) : -1 
+[2022/07/13@15:29:46.312+0100] P-13392      T-13412 I BROKER  0: (19214) Taille maximale que peut atteindre le fichier journal de la base de données avant troncation (-lgTruncateSize) : 0 Mo 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (19212) Heure de la journée de troncation du fichier journal de la base de données (-lgTruncateTime) : 00:00 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (19137) Limiter la charge utile de fichier .lg (-limitLgPayload) : Not Enabled 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (12815) Verrouiller hachage table/taille table (-lkhash) : 1237 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (17805) Algorithme de libération des verrous d'origine (-lkrela) : Not Enabled 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (19090) Nombre d'objets LOB inclus dans la collection de statistiques (-lobrangesize) : 50 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (17560) Nombre de sauts forcés de LRU (-lruskips) : 100 
+[2022/07/13@15:29:46.313+0100] P-13392      T-13412 I BROKER  0: (17561) Nombre de sauts forcés de LRU2 (-lru2skips) : 0 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (13953) Nombre maximum de zones (-maxArea) : 32000. 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (5649)  N° de port maximum pour Auto Serveurs (-maxport) : 5000. 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (12540) Taille de la table de transaction JTA (-maxxids):  100 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (5648)  N° de port minimum pour Auto Serveurs (-minport) : 3000. 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (17564) Taille du cache de la partition multi-tenant (-mtpmsize) : 1024 
+[2022/07/13@15:29:46.314+0100] P-13392      T-13412 I BROKER  0: (12821) Utilise muxlatches (-mux): 1 
+[2022/07/13@15:29:46.315+0100] P-13392      T-13412 I BROKER  0: (4260)  Nombre maximum d'utilisateurs (-n) : 21. 
+[2022/07/13@15:29:46.315+0100] P-13392      T-13412 I BROKER  0: (17566) Délai minimal avant mise en veille lors de la première expiration de -spin (-nap) : 10. 
+[2022/07/13@15:29:46.315+0100] P-13392      T-13412 I BROKER  0: (17565) Délai maximal avant mise en veille lors de l'expiration de -spin (-napmax) : 250. 
+[2022/07/13@15:29:46.315+0100] P-13392      T-13412 I BROKER  0: (18522) Pas de vérification d'hôte SSL (-nohostverify) : Not Enabled 
+[2022/07/13@15:29:46.315+0100] P-13392      T-13412 I BROKER  0: (17807) Désactiver le mécanisme LRU (-nolru) : Not Enabled 
+[2022/07/13@15:29:46.316+0100] P-13392      T-13412 I BROKER  0: (12273) Pas de cache de session SSL (-nosessioncache) : Not Enabled 
+[2022/07/13@15:29:46.316+0100] P-13392      T-13412 I BROKER  0: (18521) Pas de réutilisation de session SSL (-nosessionreuse) : Not Enabled 
+[2022/07/13@15:29:46.316+0100] P-13392      T-13412 I BROKER  0: (16689) Gouverneur de connexion (-nGovernor) : 0 sur 32000. 
+[2022/07/13@15:29:46.316+0100] P-13392      T-13412 I BROKER  0: (18398) Nombre de statistiques de points de contrôle pour enregistrer (-numCheckpointStats) : 32 
+[2022/07/13@15:29:46.317+0100] P-13392      T-13412 I BROKER  0: (19122) Omettre les messages de fichier .lg (-omitLgMsgs) :  
+[2022/07/13@15:29:46.317+0100] P-13392      T-13412 I BROKER  0: (8527)  Taille de la mémoire cache de l'objet de stockage (-omsize) : 1024 
+[2022/07/13@15:29:46.317+0100] P-13392      T-13412 I BROKER  0: (13870) Database Service Manager - Taille de la file d'attente IPC (-pica) : 128.0 KBytes. 
+[2022/07/13@15:29:46.317+0100] P-13392      T-13412 I BROKER  0: (19347) Temps de sieste maximal lorsque l'accès à la file d'attente PICA est bloqué (-picanap) : 1 ms 
+[2022/07/13@15:29:46.317+0100] P-13392      T-13412 I BROKER  0: (17802) Segments de mémoire partagée verrouillés (-pinshm) : Not Enabled 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (16953) Utiliser un mécanisme de jeu d'interrogations pour le client/serveur (-pollset) : Not Enabled 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (16955) Délai du premier message de prérécupération (-prefetchDelay) : Enabled 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (16956) Pourcentage de remplissage du message de prérécupération (-prefetchFactor) : 100 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (16957) Enregistrements minimums dans le message de prérécupération (-prefetchNumRecs) : 64 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (16958) Priorité d'interrogation de la file d'attente de suspension (-prefetchPriority) : 1 
+[2022/07/13@15:29:46.318+0100] P-13392      T-13412 I BROKER  0: (17568) Durée du cycle de lecture de la file d'attente APW en millisecondes (-pwqdelay) : 100. 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (17569) Longueur minimale de la file d'attente APW avant écriture (-pwqmin) : 1. 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (17570) Durée du cycle de lecture du tampon APW en secondes (-pwsdelay) : 1. 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (4247)  Fichier E/S avant image (-r -R) : Reliable. 
+[2022/07/13@15:29:46.319+0100] P-13392      T-13412 I BROKER  0: (17563) Facteur de profondeur de recherche de la chaîne sans enregistrement (-recspacesearchdepth) : 5 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (19133) File d'attente Lock Wait de schéma (-schlockwq) : Not Enabled 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (18478) Taille du cache de sécurité (-secsize) : 512 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (6526)  Nombre de sémaphores (-semsets) 3. 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (12264) Délai d'expiration de session SSL (-sessiontimeout) : 0 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (13924) Taille maximum du segment de mémoire partagée (-shmsegsize) 1024 Mo. 
+[2022/07/13@15:29:46.320+0100] P-13392      T-13412 I BROKER  0: (4243)  Valeur actuelle des tentatives de verrouillage rotatif (-spin) : 1. 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (17803) Cryptage SSL pour connexions TCP/IP (-ssl) : Not Enabled 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (19329) Database server side join support (-ssj) : Not Enabled 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (20402) STS Socket Reuse (-stsSocketReuse): Yes 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (18525) Niveau de journalisation de débogage STS par défaut (-stslogginglevel) : 0 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (17556) Nombre de tables incluses dans la collecte de statistiques : (-tablerangesize) 50. 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (19151) Serveur de base de données multithread (-threadedServer) : Not Enabled 
+[2022/07/13@15:29:46.321+0100] P-13392      T-13412 I BROKER  0: (19159) Taille de pile de thread pour les serveurs de base de données multithread (-threadedServerStack) : 512 Ko 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (18407) Nombre d'index par utilisateur inclus dans la collection de statistiques (-userindexrangesize) : 50 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (19089) Nombre d'objets LOB par utilisateur inclus dans la collection de statistiques (-userlobrangesize) : 50 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (18118) Heure de notification de l'utilisateur (-userNotifyTime) : 600 secondes 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (18405) Nombre de tables par utilisateur incluses dans la collection de statistiques (-usertablerangesize) : 50 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (14017) Area block consistency check in area "" (-AreaCheck): Not Enabled 
+[2022/07/13@15:29:46.322+0100] P-13392      T-13412 I BROKER  0: (4239)  Nombre de mémoires tampon de la base de données (-B) : 3000. 
+[2022/07/13@15:29:46.323+0100] P-13392      T-13412 I BROKER  0: (17562) Nombre de zones de mémoire tampon alternatives (-B2) : 0. 
+[2022/07/13@15:29:46.323+0100] P-13392      T-13412 I BROKER  0: (9422)  Nombre maximum de mémoires tampon privées par utilisateur (-Bpmax) : 64. 
+[2022/07/13@15:29:46.323+0100] P-13392      T-13412 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2022/07/13@15:29:46.323+0100] P-13392      T-13412 I BROKER  0: (13869) Database Service Manager - Service(s) à démarrer (-DBService) : Not Enabled 
+[2022/07/13@15:29:46.323+0100] P-13392      T-13412 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (4237)  Accès forcé (-F) : Not Enabled. 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (4249)  Intervalle de troncature avant image (BI) (-G) : 0. 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (4261)  Nom de l'hôte (-H) : LAPTOP-JQJRHBVA. 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (14018) Index block consistency check in index "", partitionID -32767(-IndexCheck): Not Enabled 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (4241)  Taille actuelle de la table de verrouillage (-L) : 8192. 
+[2022/07/13@15:29:46.324+0100] P-13392      T-13412 I BROKER  0: (16688) Gouverneur de verrou (-LGovernor) : 0%. 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (4257)  Nombre maximum de clients par serveur (-Ma) : 5. 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (14015) Memory overwrite check (-MemCheck): Not Enabled 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (4245)  Retard du "Before-Image Flush" (-Mf) : 3. 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (4259)  Nombre minimum de clients par serveur (-Mi) : 1. 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (12818) Message Buffer Size (-Mm): 8192 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (4258)  Nombre maximum de serveurs (-Mn) : 5. 
+[2022/07/13@15:29:46.325+0100] P-13392      T-13412 I BROKER  0: (12819) Serveurs par Protocol (-Mp): 0 
+[2022/07/13@15:29:46.326+0100] P-13392      T-13412 I BROKER  0: (5647)  Nb. maximum de serveurs par broker (-Mpb) : 0. 
+[2022/07/13@15:29:46.326+0100] P-13392      T-13412 I BROKER  0: (4240)  Taille de mémoire partagée dépassée (-Mxs) : 39. 
+[2022/07/13@15:29:46.326+0100] P-13392      T-13412 I BROKER  0: (4263)  Type de réseau (-N) : TCP. 
+[2022/07/13@15:29:46.326+0100] P-13392      T-13412 I BROKER  0: (16954) Temps d'attente de message réseau serveur (-Nmsgwait) : 2 
+[2022/07/13@15:29:46.326+0100] P-13392      T-13412 I BROKER  0: (10357) Délai d'attente de connexion du client dépassé (-PendConnTimeout) : 0. 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (4262)  Nom du service (-S) : 9001. 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (17804) Prise en charge du groupe de serveurs brokers (-ServerType) : BOTH 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (19342) Statistiques de mises à jour autonomes SQL (-SQLAutoStats) : OFF 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (10028) Nombre maximum de curseurs ouverts serveur SQL (-SQLCursors) : 50. 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (20037) SQL Enable Core Generation (-SQLEnableCoreGeneration): OFF 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (20038) SQL Failure Driven Log (-SQLFailureDrivenLog): OFF 
+[2022/07/13@15:29:46.327+0100] P-13392      T-13412 I BROKER  0: (17567) Nombre de secondes pendant lequel un client SQL doit attendre un verrouillage d'enregistrement (-SQLLockWaitTimeout) : 5. 
+[2022/07/13@15:29:46.328+0100] P-13392      T-13412 I BROKER  0: (19134) Identifiant rowid SQL (-SQLQuotedRowid) : Standard 
+[2022/07/13@15:29:46.328+0100] P-13392      T-13412 I BROKER  0: (10026) Taille de la pile de serveur SQL (-SQLStack) : 1000. 
+[2022/07/13@15:29:46.328+0100] P-13392      T-13412 I BROKER  0: (10027) Taille de la mémoire cache de l'instruction serveur SQL (-SQLStmtCache) : 100. 
+[2022/07/13@15:29:46.328+0100] P-13392      T-13412 I BROKER  0: (10029) Taille [1 Ko unités] de la mémoire tampon de la table temporaire du serveur SQL (-SQLTempStoreBuff) : 1000. 
+[2022/07/13@15:29:46.328+0100] P-13392      T-13412 I BROKER  0: (10030) Taille [1 Ko unités] de la capacité de stockage disque de la table temporaire du serveur SQL (-SQLTempStoreDisk) : 500000. 
+[2022/07/13@15:29:46.329+0100] P-13392      T-13412 I BROKER  0: (10031) Taille [1 Ko unités] de la page de données de la table temporaire du serveur SQL (-SQLTempStorePageSize) : 8. 
+[2022/07/13@15:29:46.329+0100] P-13392      T-13412 I BROKER  0: (17955) Troncation des données autorisée (-SQLTruncateTooLarge) : OFF 
+[2022/07/13@15:29:46.329+0100] P-13392      T-13412 I BROKER  0: (18156) Mise à jour du schéma autonome SQL (-SQLWidthUpdate) : OFF 
+[2022/07/13@15:29:46.332+0100] P-13392      T-13412 I BROKER  0: (14019) Record block consistency check in table "", partitionID -32767(-TableCheck): Not Enabled 
+[2022/07/13@15:29:46.332+0100] P-13392      T-13412 I BROKER  0: (17717) Nombre maximal de tentatives de verrouillage TXE (-TXERetryLimit) : 0. 
+[2022/07/13@15:29:46.332+0100] P-13392      T-13412 I BROKER  0: (13896) Nombre maximum de verrous de validation TXE (-TXESkipLimit) : 10000. 
+[2022/07/13@15:29:46.451+0100] P-13392      T-13412 I BROKER  0: (10836) Les connexions à la base de données ne sont pas autorisées en ce moment. 
+[2022/07/13@15:29:46.451+0100] P-13392      T-13412 I BROKER  0: (10471) Connexions aux bases de données activées. 
+[2022/07/13@15:34:49.387+0100] P-14220      T-10752 I SQLSRV2 1: (19262) SQL Server 12.5.00 started, configuration: "LPFSEC.virtualconfig" 
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19552) SQL Server with server num 1 logged in.
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19265) "LPFSEC" started on IPv4 port 3004 for address 127.0.0.1, pid 14220 (0x0000378c).
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19263) Thread stack size:  1024000  (bytes).
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19270) DLC from ENVIRONMENT VARIABLE is: C:\Progress\OpenEdge
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19270) WRKDIR from ENVIRONMENT VARIABLE is: C:\OpenEdge\WRK\
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19270) JDKHOME from ENVIRONMENT VARIABLE is: C:\PROGRA~1\Java\JDK-11~1.4
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19270) JREHOME from ENVIRONMENT VARIABLE is: C:\PROGRA~1\Java\JDK-11~1.4
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19270) CLASSPATH from DEFAULT is: 
+[2022/07/13@15:34:49.426+0100] P-14220      T-10752 I SQLSRV2 1: (19271) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2022/07/13@15:34:49.439+0100] P-14220      T-10752 I SQLSRV2 1: (19260) server control: JVM Parameter Monitoring Service start status= 0
+[2022/07/13@15:34:49.452+0100] P-14220      T-13432 I SQLSRV2 1: (19243) sql_engine: SQL service thread for client begun
+[2022/07/13@15:34:49.452+0100] P-14220      T-13432 I SQLSRV2 1: (19288) service name: JVM Param Service : Thread 13432 is executing.
+[2022/07/13@15:34:49.913+0100] P-14220      T-12716 I SQLSRV2 1: (8873)  Login usernum 2, remote SQL client. 
+[2022/07/13@15:34:50.057+0100] P-14220      T-12716 I SQLSRV2 1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/07/13@15:34:50.057+0100] P-14220      T-12716 I SQLSRV2 1: (19205) SQLLockWaitTimeout 5 
+[2022/07/13@15:34:50.064+0100] P-14220      T-12716 I SQLSRV2 1: (19198) Login by user 2. Using TCP/IP IPV4 address 127.0.0.1
+[2022/07/13@15:34:51.652+0100] P-12188      T-13008 I SRV     3: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/13@15:34:51.670+0100] P-12188      T-13008 I SRV     3: (19552) Server with server num 2 logged in. 
+[2022/07/13@15:34:51.670+0100] P-12188      T-13008 I SRV     3: (5646)  Démarrage sur le port 3005 utilisant TCP IPV4 address 127.0.0.1, pid 12188. 
+[2022/07/13@15:34:52.624+0100] P-12188      T-13008 I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:34:52.624+0100] P-12188      T-13008 I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/13@15:34:52.625+0100] P-12188      T-13008 I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:34:52.655+0100] P-12188      T-13008 I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/13@15:37:22.011+0100] P-13772      T-12156 I SRV     5: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/13@15:37:22.045+0100] P-13772      T-12156 I SRV     5: (19552) Server with server num 3 logged in. 
+[2022/07/13@15:37:22.045+0100] P-13772      T-12156 I SRV     5: (5646)  Démarrage sur le port 3007 utilisant TCP IPV4 address 127.0.0.1, pid 13772. 
+[2022/07/13@15:37:22.554+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:37:22.555+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:37:22.555+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:37:22.580+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:37:29.634+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:37:46.249+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:37:46.250+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:37:46.250+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:37:46.271+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:37:49.308+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:38:38.367+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:38:38.368+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:38:38.368+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:38:38.391+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:38:41.425+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:38:53.040+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:38:53.040+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:38:53.040+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:38:53.052+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:38:56.265+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:56:49.764+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:56:49.765+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:56:49.765+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:56:49.791+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:56:51.839+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:57:04.626+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:57:04.626+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:57:04.626+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:57:04.634+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:57:07.274+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:57:32.328+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:57:32.329+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:57:32.329+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:57:32.352+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:57:33.388+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:58:04.790+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@15:58:04.791+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:58:04.791+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@15:58:04.815+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@15:58:08.868+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:00:59.562+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:00:59.562+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:00:59.563+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:00:59.592+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:01:05.663+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:01:40.346+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:01:40.346+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:01:40.347+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:01:40.361+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:01:44.431+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:03:14.930+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:03:14.930+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:03:14.930+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:03:14.951+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:03:19.036+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:03:45.562+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:03:45.562+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:03:45.563+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:03:45.586+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:03:49.621+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:04:50.223+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:04:50.223+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:04:50.223+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:04:50.229+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:04:55.315+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:10.861+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:05:10.861+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:10.862+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:10.884+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:22.033+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:26.550+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:05:26.551+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:26.552+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:26.574+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:29.601+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:53.526+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:05:53.527+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:53.527+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:05:53.550+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:05:56.609+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:06:15.499+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:06:15.499+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:06:15.500+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:06:15.522+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:06:17.569+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:06:30.791+0100] P-13772      T-12156 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/13@16:06:30.792+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:06:30.792+0100] P-13772      T-12156 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/13@16:06:30.817+0100] P-13772      T-12156 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/13@16:06:35.858+0100] P-13772      T-12156 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Mon Jul 18 16:11:42 2022
+[2022/07/18@16:11:42.101+0100] P-11120      T-2464  I BROKER  0: (333)    Début de la session Multi-Utilisateurs. 
+[2022/07/18@16:11:42.170+0100] P-11120      T-2464  I BROKER  0: (5326)  Commencer Phase Rétablissement Physique à 0 . 
+[2022/07/18@16:11:42.412+0100] P-11120      T-2464  I BROKER  0: (7161)  Phase Rétablissement Physique terminée à blk 12 off 3488 upd 0. 
+[2022/07/18@16:11:42.412+0100] P-11120      T-2464  I BROKER  0: (13547) Une fois le rétablissement physique terminé, la taille de la table de transactions est 5440. 
+[2022/07/18@16:11:42.470+0100] P-11120      T-2464  I BROKER  0: (452)   Connexion de l'utilisateur yassi à batch. 
+[2022/07/18@16:11:42.478+0100] P-11120      T-2464  I BROKER  0: (4393)  Cette licence serveur n'est prévue que pour des connexions locales. 
+[2022/07/18@16:11:42.500+0100] P-11120      T-2464  I BROKER  0: (5644)  Démarrage de 9001 en utilisant TCP IPV4 address 127.0.0.1, pid 11120. 
+[2022/07/18@16:11:42.505+0100] P-11120      T-2464  I BROKER  0: (19117) Licence d'utilisation de cette installation accordée à : HP par C:\Progress\OpenEdge\progress.cfg 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (19116) Produit : Progress Dev Studio OE installé, numéro de série : 6246602 expiration : 08/16/2022. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (4234)  Progress OpenEdge Release 12.5 build 1175 sur WINNT . 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (19552) Broker with server num 0 logged in. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (4281)  Serveur lancé par yassi sur batch. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (6574)  Démarrage de l'utilisation du pid : 11120. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (15219) Chiffrement activé : 0 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (15824) Multi-tenancy activé :0 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (15824) Table Partitioning activé :0 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (15824) Authentication Gateway activé :0 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (19388) LRU mechanism enabled. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (4282)  Fichier paramètre : Not Enabled. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (9336)  La mémoire partagée a été créée avec segment_id : 1. 
+[2022/07/18@16:11:42.506+0100] P-11120      T-2464  I BROKER  0: (4250)  Taille de cluster avant image (BI) : 524288. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (4251)  Taille du bloc avant image (BI) : 8192. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (4255)  Taille de blocs après image (AI) : 8192. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (13873) Liste des répertoires d'archivage de gestion After-image (-aiarcdir) : Not Enabled. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (13874) Créer le ou les répertoires d'archivage de gestion After-image (-aiarcdircreate) : Not Enabled. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (13872) Intervalle d'archivage de gestion After-image (-aiarcinterval) : -1. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (4256)  Nombre de tampons After-Image (-aibufs) : 64 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (4254)  Arrêt après image (AI) (-aistall) : Not Enabled. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (17555) Numéro d'index de début pour la plage de statistiques (-baseindex) : 1. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (19091) Numéro LOB de début pour la plage de statistiques (-baselob) : 1 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (17554) Numéro de table de début pour la plage de statistiques (-basetable) : 1. 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (18406) Numéro d'index de début par utilisateur pour la plage de statistiques (-baseuserindex) : 1 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (19092) Numéro LOB de début par utilisateur pour la plage de statistiques (-baseuserlob) : 1 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (18404) Numéro de table de début par utilisateur pour la plage de statistiques (-baseusertable) : 1 
+[2022/07/18@16:11:42.507+0100] P-11120      T-2464  I BROKER  0: (4252)  Nombre de mémoire tampon avant image (BI) (-bibufs) : 64. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (20052) BI Scan Time (-biscantime): 10 seconds 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (6552)  Arrêt seuil du fichier BI (-bistall) : Désactivé. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (9238)  Taille seuil du fichier BI (-bithold) : 0.0   Bytes. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (12813) Curseurs d'index autorisés (-c) : 84. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18495) Taille du cache CDC (-cdcsize) : 200ko 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (12265) Chemin de stockage du certificat SSL (-certstorepath) : Not Enabled 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (4264)  Jeu de caractères (-cpinternal) : ISO8859-1. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (19442) C stack print option (-cstackPrintopt): 0 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (4235)  Nom physique de la base de données (-db) : C:/db/LPFSEC/LPFSEC. 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (19519) Number of DB Notification Operations (-dbnotifyops): 16 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (19511) DB Notification Time (-dbnotifytime): 30 seconds 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18558) Répertoire de diagnostic (-diagDir) : Not Enabled 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18576) Valeur d'événements de diagnostic (-diagEvent) : LockTable:0,BiThold:0,SysErr:0 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18560) Niveau d'événement de diagnostic (-diagEvtLevel) : 0 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18561) Séparateur de champ de diagnostic (-diagFS) : ' ' 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18579) Format de données de diagnostic (-diagFormat) : csv 
+[2022/07/18@16:11:42.508+0100] P-11120      T-2464  I BROKER  0: (18562) Longueur de pause de diagnostic (-diagPause) : 0 
+[2022/07/18@16:11:42.509+0100] P-11120      T-2464  I BROKER  0: (18563) Valeur de préfixe de diagnostic (-diagPrefix) : diagEvent_ 
+[2022/07/18@16:11:42.509+0100] P-11120      T-2464  I BROKER  0: (18580) Procédure de diagnostic (-diagProc) : Not Enabled 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (4238)  E/S Direct (-directio) : Not Enabled. 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (4236)  Type de la base de données (-dt) : PROGRESS. 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (15218) Taille du cache de chiffrement (-ecsize) : 1000 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (12814) Délai de groupe (-groupdelay) : 10 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (4242)  Entrée de la table de hachage (-hash) : 887. 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (19195) Pourcentage Latch de table de hachage du pool tampon (-hashLatchFactor) : 10 
+[2022/07/18@16:11:42.584+0100] P-11120      T-2464  I BROKER  0: (4244)  Protection en cas d'incident (-i) : Enabled. 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (17557) Nombre d'index inclus dans la collecte de statistiques : (-indexrangesize) 50. 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (14268) Version TCP/IP (-ipver) : IPV4 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (12263) Nom de l'alias de clé SSL (-keyalias) : Not Enabled 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19216) Répertoire d'archivage du fichier journal de la base de données (-lgArchiveDir) : Not Enabled 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19215) Archiver le fichier journal de la base de données avant troncation (-lgArchiveEnable) : Not Enabled 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19213) Fréquence de troncation du fichier journal de la base de données (-lgTruncateFrequency) : -1 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19214) Taille maximale que peut atteindre le fichier journal de la base de données avant troncation (-lgTruncateSize) : 0 Mo 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19212) Heure de la journée de troncation du fichier journal de la base de données (-lgTruncateTime) : 00:00 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19137) Limiter la charge utile de fichier .lg (-limitLgPayload) : Not Enabled 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (12815) Verrouiller hachage table/taille table (-lkhash) : 1237 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (17805) Algorithme de libération des verrous d'origine (-lkrela) : Not Enabled 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (19090) Nombre d'objets LOB inclus dans la collection de statistiques (-lobrangesize) : 50 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (17560) Nombre de sauts forcés de LRU (-lruskips) : 100 
+[2022/07/18@16:11:42.585+0100] P-11120      T-2464  I BROKER  0: (17561) Nombre de sauts forcés de LRU2 (-lru2skips) : 0 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (13953) Nombre maximum de zones (-maxArea) : 32000. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (5649)  N° de port maximum pour Auto Serveurs (-maxport) : 5000. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (12540) Taille de la table de transaction JTA (-maxxids):  100 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (5648)  N° de port minimum pour Auto Serveurs (-minport) : 3000. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (17564) Taille du cache de la partition multi-tenant (-mtpmsize) : 1024 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (12821) Utilise muxlatches (-mux): 1 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (4260)  Nombre maximum d'utilisateurs (-n) : 21. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (17566) Délai minimal avant mise en veille lors de la première expiration de -spin (-nap) : 10. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (17565) Délai maximal avant mise en veille lors de l'expiration de -spin (-napmax) : 250. 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (18522) Pas de vérification d'hôte SSL (-nohostverify) : Not Enabled 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (17807) Désactiver le mécanisme LRU (-nolru) : Not Enabled 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (12273) Pas de cache de session SSL (-nosessioncache) : Not Enabled 
+[2022/07/18@16:11:42.586+0100] P-11120      T-2464  I BROKER  0: (18521) Pas de réutilisation de session SSL (-nosessionreuse) : Not Enabled 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16689) Gouverneur de connexion (-nGovernor) : 0 sur 32000. 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (18398) Nombre de statistiques de points de contrôle pour enregistrer (-numCheckpointStats) : 32 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (19122) Omettre les messages de fichier .lg (-omitLgMsgs) :  
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (8527)  Taille de la mémoire cache de l'objet de stockage (-omsize) : 1024 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (13870) Database Service Manager - Taille de la file d'attente IPC (-pica) : 128.0 KBytes. 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (19347) Temps de sieste maximal lorsque l'accès à la file d'attente PICA est bloqué (-picanap) : 1 ms 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (17802) Segments de mémoire partagée verrouillés (-pinshm) : Not Enabled 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16953) Utiliser un mécanisme de jeu d'interrogations pour le client/serveur (-pollset) : Not Enabled 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16955) Délai du premier message de prérécupération (-prefetchDelay) : Enabled 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16956) Pourcentage de remplissage du message de prérécupération (-prefetchFactor) : 100 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16957) Enregistrements minimums dans le message de prérécupération (-prefetchNumRecs) : 64 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (16958) Priorité d'interrogation de la file d'attente de suspension (-prefetchPriority) : 1 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (17568) Durée du cycle de lecture de la file d'attente APW en millisecondes (-pwqdelay) : 100. 
+[2022/07/18@16:11:42.587+0100] P-11120      T-2464  I BROKER  0: (17569) Longueur minimale de la file d'attente APW avant écriture (-pwqmin) : 1. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17570) Durée du cycle de lecture du tampon APW en secondes (-pwsdelay) : 1. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (4247)  Fichier E/S avant image (-r -R) : Reliable. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17563) Facteur de profondeur de recherche de la chaîne sans enregistrement (-recspacesearchdepth) : 5 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (19133) File d'attente Lock Wait de schéma (-schlockwq) : Not Enabled 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (18478) Taille du cache de sécurité (-secsize) : 512 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (6526)  Nombre de sémaphores (-semsets) 3. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (12264) Délai d'expiration de session SSL (-sessiontimeout) : 0 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (13924) Taille maximum du segment de mémoire partagée (-shmsegsize) 1024 Mo. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (4243)  Valeur actuelle des tentatives de verrouillage rotatif (-spin) : 1. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17803) Cryptage SSL pour connexions TCP/IP (-ssl) : Not Enabled 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (19329) Database server side join support (-ssj) : Not Enabled 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (20402) STS Socket Reuse (-stsSocketReuse): Yes 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (18525) Niveau de journalisation de débogage STS par défaut (-stslogginglevel) : 0 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (17556) Nombre de tables incluses dans la collecte de statistiques : (-tablerangesize) 50. 
+[2022/07/18@16:11:42.588+0100] P-11120      T-2464  I BROKER  0: (19151) Serveur de base de données multithread (-threadedServer) : Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (19159) Taille de pile de thread pour les serveurs de base de données multithread (-threadedServerStack) : 512 Ko 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (18407) Nombre d'index par utilisateur inclus dans la collection de statistiques (-userindexrangesize) : 50 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (19089) Nombre d'objets LOB par utilisateur inclus dans la collection de statistiques (-userlobrangesize) : 50 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (18118) Heure de notification de l'utilisateur (-userNotifyTime) : 600 secondes 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (18405) Nombre de tables par utilisateur incluses dans la collection de statistiques (-usertablerangesize) : 50 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (14017) Area block consistency check in area "" (-AreaCheck): Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4239)  Nombre de mémoires tampon de la base de données (-B) : 3000. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (17562) Nombre de zones de mémoire tampon alternatives (-B2) : 0. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (9422)  Nombre maximum de mémoires tampon privées par utilisateur (-Bpmax) : 64. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (13869) Database Service Manager - Service(s) à démarrer (-DBService) : Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4237)  Accès forcé (-F) : Not Enabled. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4249)  Intervalle de troncature avant image (BI) (-G) : 0. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4261)  Nom de l'hôte (-H) : LAPTOP-JQJRHBVA. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (14018) Index block consistency check in index "", partitionID -32767(-IndexCheck): Not Enabled 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4241)  Taille actuelle de la table de verrouillage (-L) : 8192. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (16688) Gouverneur de verrou (-LGovernor) : 0%. 
+[2022/07/18@16:11:42.589+0100] P-11120      T-2464  I BROKER  0: (4257)  Nombre maximum de clients par serveur (-Ma) : 5. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (14015) Memory overwrite check (-MemCheck): Not Enabled 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4245)  Retard du "Before-Image Flush" (-Mf) : 3. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4259)  Nombre minimum de clients par serveur (-Mi) : 1. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (12818) Message Buffer Size (-Mm): 8192 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4258)  Nombre maximum de serveurs (-Mn) : 5. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (12819) Serveurs par Protocol (-Mp): 0 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (5647)  Nb. maximum de serveurs par broker (-Mpb) : 0. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4240)  Taille de mémoire partagée dépassée (-Mxs) : 39. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4263)  Type de réseau (-N) : TCP. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (16954) Temps d'attente de message réseau serveur (-Nmsgwait) : 2 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (10357) Délai d'attente de connexion du client dépassé (-PendConnTimeout) : 0. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (4262)  Nom du service (-S) : 9001. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (17804) Prise en charge du groupe de serveurs brokers (-ServerType) : BOTH 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (19342) Statistiques de mises à jour autonomes SQL (-SQLAutoStats) : OFF 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (10028) Nombre maximum de curseurs ouverts serveur SQL (-SQLCursors) : 50. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (20037) SQL Enable Core Generation (-SQLEnableCoreGeneration): OFF 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (20038) SQL Failure Driven Log (-SQLFailureDrivenLog): OFF 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (17567) Nombre de secondes pendant lequel un client SQL doit attendre un verrouillage d'enregistrement (-SQLLockWaitTimeout) : 5. 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (19134) Identifiant rowid SQL (-SQLQuotedRowid) : Standard 
+[2022/07/18@16:11:42.590+0100] P-11120      T-2464  I BROKER  0: (10026) Taille de la pile de serveur SQL (-SQLStack) : 1000. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (10027) Taille de la mémoire cache de l'instruction serveur SQL (-SQLStmtCache) : 100. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (10029) Taille [1 Ko unités] de la mémoire tampon de la table temporaire du serveur SQL (-SQLTempStoreBuff) : 1000. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (10030) Taille [1 Ko unités] de la capacité de stockage disque de la table temporaire du serveur SQL (-SQLTempStoreDisk) : 500000. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (10031) Taille [1 Ko unités] de la page de données de la table temporaire du serveur SQL (-SQLTempStorePageSize) : 8. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (17955) Troncation des données autorisée (-SQLTruncateTooLarge) : OFF 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (18156) Mise à jour du schéma autonome SQL (-SQLWidthUpdate) : OFF 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (14019) Record block consistency check in table "", partitionID -32767(-TableCheck): Not Enabled 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (17717) Nombre maximal de tentatives de verrouillage TXE (-TXERetryLimit) : 0. 
+[2022/07/18@16:11:42.591+0100] P-11120      T-2464  I BROKER  0: (13896) Nombre maximum de verrous de validation TXE (-TXESkipLimit) : 10000. 
+[2022/07/18@16:11:42.655+0100] P-11120      T-2464  I BROKER  0: (10836) Les connexions à la base de données ne sont pas autorisées en ce moment. 
+[2022/07/18@16:11:42.655+0100] P-11120      T-2464  I BROKER  0: (10471) Connexions aux bases de données activées. 
+[2022/07/18@16:11:43.556+0100] P-11920      T-11884 I SRV     1: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/18@16:11:43.573+0100] P-11920      T-11884 I SRV     1: (19552) Server with server num 1 logged in. 
+[2022/07/18@16:11:43.573+0100] P-11920      T-11884 I SRV     1: (5646)  Démarrage sur le port 3001 utilisant TCP IPV4 address 127.0.0.1, pid 11920. 
+[2022/07/18@16:11:44.415+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:11:44.415+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/07/18@16:11:44.415+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:11:44.721+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/07/18@16:16:56.910+0100] P-6936       T-9844  I SRV     3: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/18@16:16:56.943+0100] P-6936       T-9844  I SRV     3: (19552) Server with server num 2 logged in. 
+[2022/07/18@16:16:56.943+0100] P-6936       T-9844  I SRV     3: (5646)  Démarrage sur le port 3003 utilisant TCP IPV4 address 127.0.0.1, pid 6936. 
+[2022/07/18@16:16:57.752+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:16:57.752+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:16:57.752+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:16:57.774+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:17:27.807+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:17:45.401+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:17:45.401+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:17:45.401+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:17:45.423+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:17:52.539+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:25:57.763+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:25:57.763+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:25:57.763+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:25:57.785+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:26:05.165+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:35:09.439+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:35:09.439+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:35:09.439+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:35:09.460+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:35:16.544+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:36:36.506+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:36:36.506+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:36:36.506+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:36:36.513+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:36:39.619+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:36:50.255+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:36:50.255+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:36:50.255+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:36:50.277+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:36:57.371+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:41:44.212+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@16:41:44.212+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:41:44.212+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@16:41:44.234+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@16:42:36.782+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:18:01.934+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:18:02.001+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:18:02.001+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:18:02.010+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:18:16.070+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:18:33.289+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:18:33.289+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:18:33.289+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:18:33.310+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:19:33.900+0100] P-6936       T-9844  I SRV     3: (794)   Arrêt anormal de l'utilisateur 4. 
+[2022/07/18@17:19:33.900+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:19:58.679+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:19:58.679+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:19:58.679+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:19:58.700+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:20:03.716+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:20:34.682+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:20:34.682+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:20:34.683+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:20:34.705+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:20:50.869+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:21:15.463+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:21:15.463+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:21:15.463+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:21:15.484+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:21:24.671+0100] P-14252      T-13608 I SRV     5: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/18@17:21:24.708+0100] P-14252      T-13608 I SRV     5: (19552) Server with server num 3 logged in. 
+[2022/07/18@17:21:24.708+0100] P-14252      T-13608 I SRV     5: (5646)  Démarrage sur le port 3007 utilisant TCP IPV4 address 127.0.0.1, pid 14252. 
+[2022/07/18@17:21:25.308+0100] P-14252      T-13608 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:21:25.308+0100] P-14252      T-13608 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/18@17:21:25.308+0100] P-14252      T-13608 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:21:25.318+0100] P-14252      T-13608 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/18@17:21:35.402+0100] P-14972      T-6644  I SRV     7: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/07/18@17:21:35.438+0100] P-14972      T-6644  I SRV     7: (19552) Server with server num 4 logged in. 
+[2022/07/18@17:21:35.439+0100] P-14972      T-6644  I SRV     7: (5646)  Démarrage sur le port 3009 utilisant TCP IPV4 address 127.0.0.1, pid 14972. 
+[2022/07/18@17:21:36.197+0100] P-14972      T-6644  I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:21:36.198+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/18@17:21:36.198+0100] P-14972      T-6644  I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:21:36.211+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/18@17:22:01.158+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:22:09.036+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:22:09.036+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:22:09.036+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:22:09.050+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/18@17:22:09.225+0100] P-14252      T-13608 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:22:13.605+0100] P-14972      T-6644  I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:27:24.030+0100] P-14252      T-13608 I SRV     5: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/18@17:27:24.031+0100] P-14252      T-13608 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+[2022/07/18@17:27:24.031+0100] P-14252      T-13608 I SRV     5: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/18@17:27:24.057+0100] P-14252      T-13608 I SRV     5: (7129)  Usr 6 défini le nom à yassi. 
+
+                Tue Jul 19 00:58:20 2022
+[2022/07/19@00:58:20.527+0100] P-14972      T-6644  I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@00:58:20.527+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/19@00:58:20.527+0100] P-14972      T-6644  I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@00:58:20.534+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/19@00:58:35.146+0100] P-14972      T-6644  I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@00:59:40.121+0100] P-14972      T-6644  I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@00:59:40.121+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/19@00:59:40.122+0100] P-14972      T-6644  I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@00:59:40.143+0100] P-14972      T-6644  I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/07/19@01:02:29.154+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 9, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@01:02:29.154+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 9 défini le nom à yassi. 
+[2022/07/19@01:02:29.154+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 9 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:02:29.169+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 9 défini le nom à yassi. 
+[2022/07/19@01:02:47.480+0100] P-11920      T-11884 I SRV     1: (739)   Déconnexion de l'utilisateur 9, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:03:03.636+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 9, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@01:03:03.636+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 9 défini le nom à yassi. 
+[2022/07/19@01:03:03.636+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 9 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:03:03.657+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 9 défini le nom à yassi. 
+[2022/07/19@01:05:29.436+0100] P-11920      T-11884 I SRV     1: (794)   Arrêt anormal de l'utilisateur 9. 
+[2022/07/19@01:05:29.436+0100] P-11920      T-11884 I SRV     1: (739)   Déconnexion de l'utilisateur 9, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:05:38.243+0100] P-6936       T-9844  I SRV     3: (794)   Arrêt anormal de l'utilisateur 4. 
+[2022/07/19@01:05:38.269+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:05:45.210+0100] P-14972      T-6644  I SRV     7: (794)   Arrêt anormal de l'utilisateur 8. 
+[2022/07/19@01:05:45.210+0100] P-14972      T-6644  I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@01:05:53.606+0100] P-14252      T-13608 I SRV     5: (794)   Arrêt anormal de l'utilisateur 6. 
+[2022/07/19@01:05:53.606+0100] P-14252      T-13608 I SRV     5: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@09:42:23.667+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@09:42:23.667+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@09:42:23.667+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@09:42:23.694+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@09:42:30.840+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@09:43:25.238+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@09:43:25.238+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@09:43:25.238+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@09:43:25.260+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@09:43:30.331+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:54:36.661+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:54:36.661+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:54:36.661+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:54:36.683+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:54:45.785+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:55:22.236+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:55:22.236+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:55:22.236+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:55:22.259+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:55:43.495+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:56:55.130+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:56:55.130+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:56:55.130+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:56:55.158+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:56:59.454+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:57:43.152+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:57:43.152+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:57:43.152+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:57:43.174+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:57:49.274+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:58:03.046+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:58:03.047+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:58:03.047+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:58:03.069+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:58:07.132+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:58:44.800+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@11:58:44.800+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:58:44.800+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@11:58:44.821+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@11:58:51.911+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:01:46.969+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@12:01:46.969+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:01:46.969+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:01:46.990+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:01:50.076+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:02:02.866+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@12:02:02.866+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:02:02.866+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:02:02.888+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:02:16.987+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:03:34.512+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@12:03:34.512+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:03:34.512+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@12:03:34.534+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@12:03:40.582+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/19@16:04:38.035+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/19@16:04:38.035+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@16:04:38.035+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/19@16:04:38.062+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/19@16:04:49.150+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Wed Jul 20 10:09:54 2022
+[2022/07/20@10:09:54.970+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@10:09:54.971+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@10:09:54.971+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@10:09:54.989+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@10:10:08.174+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@10:10:21.106+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@10:10:21.106+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@10:10:21.106+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@10:10:21.120+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@10:10:26.198+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:42:13.014+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:42:13.014+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:42:13.014+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:42:13.025+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:42:23.121+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:43:07.404+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:43:07.404+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:43:07.405+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:43:07.412+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:43:36.700+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:46:37.579+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:46:37.579+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:46:37.579+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:46:37.590+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:46:50.697+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:47:51.236+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:47:51.236+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:47:51.236+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:47:51.246+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:47:54.258+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:48:24.715+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:48:24.715+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:48:24.715+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:48:24.725+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:48:27.742+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:48:53.680+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@11:48:53.680+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:48:53.680+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@11:48:53.690+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@11:49:03.772+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:12.495+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@14:43:12.495+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:12.495+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:12.505+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:13.626+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:43.804+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@14:43:43.804+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:43.804+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:43.832+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:44.858+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:48.773+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@14:43:48.773+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:48.773+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@14:43:48.803+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@14:43:49.816+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:19:52.564+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@15:19:52.564+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:19:52.564+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:19:52.591+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:19:58.644+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:20:12.267+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@15:20:12.267+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:20:12.267+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:20:12.295+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:20:14.352+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:20:21.996+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@15:20:21.997+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:20:21.997+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@15:20:22.025+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@15:20:26.029+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/20@23:43:26.621+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/20@23:43:26.621+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@23:43:26.621+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/20@23:43:26.631+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/20@23:43:37.731+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Fri Jul 22 10:44:16 2022
+[2022/07/22@10:44:16.098+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@10:44:16.099+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@10:44:16.099+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@10:44:16.123+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@10:44:17.250+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/22@11:42:52.368+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@11:42:52.368+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@11:42:52.368+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@11:42:52.378+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@11:42:56.423+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/22@11:43:54.654+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@11:43:54.654+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@11:43:54.654+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@11:43:54.664+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@11:49:12.747+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/22@12:03:37.472+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@12:03:37.472+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@12:03:37.472+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@12:03:37.481+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@12:03:49.650+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/22@13:55:27.064+0100] P-11920      T-11884 I SRV     1: (739)   Déconnexion de l'utilisateur 2, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/22@14:04:29.327+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@14:04:29.327+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/07/22@14:04:29.327+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@14:04:29.338+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/07/22@15:07:16.746+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/22@15:07:16.746+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@15:07:16.746+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/22@15:07:16.771+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/22@15:07:19.777+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Wed Jul 27 10:41:57 2022
+[2022/07/27@10:41:57.204+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:41:57.218+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:41:57.218+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:41:57.247+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:42:00.147+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:48:43.771+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:48:43.771+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:48:43.772+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:48:43.781+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:48:50.843+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:49:57.563+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:49:57.563+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:49:57.563+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:49:57.589+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:50:00.615+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:56:28.986+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:56:28.986+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:56:28.987+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:56:29.011+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:56:31.504+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:56:50.699+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:56:50.699+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:56:50.699+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:56:50.709+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:57:02.890+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:57:39.718+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@10:57:39.718+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:57:39.718+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@10:57:39.728+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@10:57:55.888+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:00:53.017+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:00:53.017+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:00:53.017+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:00:53.040+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:01:03.135+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:18:18.526+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:18:18.526+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:18:18.526+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:18:18.536+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:18:23.644+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:21:16.261+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:21:16.261+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:21:16.261+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:21:16.273+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:21:19.306+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:21:38.350+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:21:38.350+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:21:38.350+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:21:38.361+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:21:46.418+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:24:00.460+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:24:00.460+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:24:00.460+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:24:00.482+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:24:32.690+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:34:44.078+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:34:44.079+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:34:44.079+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:34:44.103+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:34:46.836+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:34:53.298+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:34:53.298+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:34:53.298+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:34:53.316+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:34:59.355+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:35:34.211+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:35:34.211+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:35:34.211+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:35:34.219+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:35:36.231+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:35:41.164+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/07/27@11:35:41.164+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:35:41.164+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/07/27@11:35:41.173+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/07/27@11:35:47.223+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Mon Aug  1 10:40:08 2022
+[2022/08/01@10:40:08.171+0100] P-11920      T-11884 I SRV     1: (739)   Déconnexion de l'utilisateur 2, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:44:04.030+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@10:44:04.030+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/01@10:44:04.030+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:44:04.052+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/01@10:55:55.751+0100] P-11920      T-11884 I SRV     1: (739)   Déconnexion de l'utilisateur 2, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:57:17.671+0100] P-11920      T-11884 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@10:57:17.671+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/01@10:57:17.671+0100] P-11920      T-11884 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:57:17.683+0100] P-11920      T-11884 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/01@10:57:35.894+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@10:57:35.902+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@10:57:35.902+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:57:35.928+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@10:57:44.004+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:58:05.908+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@10:58:05.909+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@10:58:05.909+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@10:58:05.936+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@11:15:44.282+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@11:16:25.132+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@11:16:25.132+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@11:16:25.132+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@11:16:25.142+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@11:17:03.461+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@12:24:23.349+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@12:24:23.349+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@12:24:23.349+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@12:24:23.357+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@12:24:29.442+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@12:26:22.798+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@12:26:22.798+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@12:26:22.798+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@12:26:22.806+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@12:26:23.869+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@14:57:18.263+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@14:57:18.264+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@14:57:18.264+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@14:57:18.286+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@14:57:25.368+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/01@14:57:32.794+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/01@14:57:32.794+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@14:57:32.794+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/01@14:57:32.813+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/01@14:57:33.876+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Fri Aug  5 10:32:13 2022
+[2022/08/05@10:32:13.664+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@10:32:13.683+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:32:13.683+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@10:32:13.715+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:32:19.213+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@10:32:28.676+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@10:32:28.676+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:32:28.676+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@10:32:28.684+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:32:29.759+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@10:33:18.756+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@10:33:18.756+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:33:18.757+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@10:33:18.782+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@10:33:20.827+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:25:57.097+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@13:25:57.098+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:25:57.098+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:25:57.118+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:25:59.169+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:26:11.369+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@13:26:11.369+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:26:11.369+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:26:11.399+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:26:14.432+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:26:59.475+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@13:26:59.475+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:26:59.475+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@13:26:59.497+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@13:27:00.508+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@14:20:13.584+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@14:20:13.584+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@14:20:13.584+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@14:20:13.606+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@14:20:22.722+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/05@14:21:24.945+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/05@14:21:24.945+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@14:21:24.945+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/05@14:21:24.967+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/05@14:25:57.480+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Thu Aug 11 13:58:21 2022
+[2022/08/11@13:58:21.053+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/11@13:58:21.063+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@13:58:21.063+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/11@13:58:21.081+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@13:58:25.040+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:28:23.394+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/11@14:28:23.394+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:28:23.394+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:28:23.413+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:28:43.609+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:29:32.067+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/11@14:29:32.067+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:29:32.067+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:29:32.088+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:29:34.106+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:33:02.931+0100] P-6936       T-9844  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/11@14:33:02.931+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:33:02.931+0100] P-6936       T-9844  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/11@14:33:02.952+0100] P-6936       T-9844  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/11@14:33:05.120+0100] P-6936       T-9844  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Tue Aug 16 15:04:29 2022
+[2022/08/16@15:04:29.888+0100] P-11812      T-9688  I BROKER  0: (333)    Début de la session Multi-Utilisateurs. 
+[2022/08/16@15:04:30.463+0100] P-11812      T-9688  I BROKER  0: (5326)  Commencer Phase Rétablissement Physique à 0 . 
+[2022/08/16@15:04:32.479+0100] P-11812      T-9688  I BROKER  0: (7161)  Phase Rétablissement Physique terminée à blk 22 off 164 upd 342. 
+[2022/08/16@15:04:32.480+0100] P-11812      T-9688  I BROKER  0: (13547) Une fois le rétablissement physique terminé, la taille de la table de transactions est 5440. 
+[2022/08/16@15:04:33.018+0100] P-11812      T-9688  I BROKER  0: (452)   Connexion de l'utilisateur yassi à batch. 
+[2022/08/16@15:04:33.042+0100] P-11812      T-9688  I BROKER  0: (4393)  Cette licence serveur n'est prévue que pour des connexions locales. 
+[2022/08/16@15:04:33.049+0100] P-11812      T-9688  I BROKER  0: (5644)  Démarrage de 9001 en utilisant TCP IPV4 address 127.0.0.1, pid 11812. 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (19117) Licence d'utilisation de cette installation accordée à : HP par C:\Progress\OpenEdge\progress.cfg 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (19116) Produit : Progress Dev Studio OE installé, numéro de série : 6249748 expiration : 10/18/2022. 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (4234)  Progress OpenEdge Release 12.5 build 1175 sur WINNT . 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (19552) Broker with server num 0 logged in. 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (4281)  Serveur lancé par yassi sur batch. 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (6574)  Démarrage de l'utilisation du pid : 11812. 
+[2022/08/16@15:04:33.050+0100] P-11812      T-9688  I BROKER  0: (15219) Chiffrement activé : 0 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (15824) Multi-tenancy activé :0 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (15824) Table Partitioning activé :0 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (15824) Authentication Gateway activé :0 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (19388) LRU mechanism enabled. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (4282)  Fichier paramètre : Not Enabled. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (9336)  La mémoire partagée a été créée avec segment_id : 1. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (4250)  Taille de cluster avant image (BI) : 524288. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (4251)  Taille du bloc avant image (BI) : 8192. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (4255)  Taille de blocs après image (AI) : 8192. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (13873) Liste des répertoires d'archivage de gestion After-image (-aiarcdir) : Not Enabled. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (13874) Créer le ou les répertoires d'archivage de gestion After-image (-aiarcdircreate) : Not Enabled. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (13872) Intervalle d'archivage de gestion After-image (-aiarcinterval) : -1. 
+[2022/08/16@15:04:33.051+0100] P-11812      T-9688  I BROKER  0: (4256)  Nombre de tampons After-Image (-aibufs) : 64 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (4254)  Arrêt après image (AI) (-aistall) : Not Enabled. 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (17555) Numéro d'index de début pour la plage de statistiques (-baseindex) : 1. 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (19091) Numéro LOB de début pour la plage de statistiques (-baselob) : 1 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (17554) Numéro de table de début pour la plage de statistiques (-basetable) : 1. 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (18406) Numéro d'index de début par utilisateur pour la plage de statistiques (-baseuserindex) : 1 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (19092) Numéro LOB de début par utilisateur pour la plage de statistiques (-baseuserlob) : 1 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (18404) Numéro de table de début par utilisateur pour la plage de statistiques (-baseusertable) : 1 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (4252)  Nombre de mémoire tampon avant image (BI) (-bibufs) : 64. 
+[2022/08/16@15:04:33.052+0100] P-11812      T-9688  I BROKER  0: (20052) BI Scan Time (-biscantime): 10 seconds 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (6552)  Arrêt seuil du fichier BI (-bistall) : Désactivé. 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (9238)  Taille seuil du fichier BI (-bithold) : 0.0   Bytes. 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (12813) Curseurs d'index autorisés (-c) : 84. 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (18495) Taille du cache CDC (-cdcsize) : 200ko 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (12265) Chemin de stockage du certificat SSL (-certstorepath) : Not Enabled 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (4264)  Jeu de caractères (-cpinternal) : ISO8859-1. 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (19442) C stack print option (-cstackPrintopt): 0 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (4235)  Nom physique de la base de données (-db) : C:/db/LPFSEC/LPFSEC. 
+[2022/08/16@15:04:33.053+0100] P-11812      T-9688  I BROKER  0: (19519) Number of DB Notification Operations (-dbnotifyops): 16 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (19511) DB Notification Time (-dbnotifytime): 30 seconds 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18558) Répertoire de diagnostic (-diagDir) : Not Enabled 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18576) Valeur d'événements de diagnostic (-diagEvent) : LockTable:0,BiThold:0,SysErr:0 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18560) Niveau d'événement de diagnostic (-diagEvtLevel) : 0 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18561) Séparateur de champ de diagnostic (-diagFS) : ' ' 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18579) Format de données de diagnostic (-diagFormat) : csv 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18562) Longueur de pause de diagnostic (-diagPause) : 0 
+[2022/08/16@15:04:33.054+0100] P-11812      T-9688  I BROKER  0: (18563) Valeur de préfixe de diagnostic (-diagPrefix) : diagEvent_ 
+[2022/08/16@15:04:33.115+0100] P-11812      T-9688  I BROKER  0: (18580) Procédure de diagnostic (-diagProc) : Not Enabled 
+[2022/08/16@15:04:33.115+0100] P-11812      T-9688  I BROKER  0: (4238)  E/S Direct (-directio) : Not Enabled. 
+[2022/08/16@15:04:33.115+0100] P-11812      T-9688  I BROKER  0: (4236)  Type de la base de données (-dt) : PROGRESS. 
+[2022/08/16@15:04:33.115+0100] P-11812      T-9688  I BROKER  0: (15218) Taille du cache de chiffrement (-ecsize) : 1000 
+[2022/08/16@15:04:33.115+0100] P-11812      T-9688  I BROKER  0: (12814) Délai de groupe (-groupdelay) : 10 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (4242)  Entrée de la table de hachage (-hash) : 887. 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19195) Pourcentage Latch de table de hachage du pool tampon (-hashLatchFactor) : 10 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (4244)  Protection en cas d'incident (-i) : Enabled. 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (17557) Nombre d'index inclus dans la collecte de statistiques : (-indexrangesize) 50. 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (14268) Version TCP/IP (-ipver) : IPV4 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (12263) Nom de l'alias de clé SSL (-keyalias) : Not Enabled 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19216) Répertoire d'archivage du fichier journal de la base de données (-lgArchiveDir) : Not Enabled 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19215) Archiver le fichier journal de la base de données avant troncation (-lgArchiveEnable) : Not Enabled 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19213) Fréquence de troncation du fichier journal de la base de données (-lgTruncateFrequency) : -1 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19214) Taille maximale que peut atteindre le fichier journal de la base de données avant troncation (-lgTruncateSize) : 0 Mo 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19212) Heure de la journée de troncation du fichier journal de la base de données (-lgTruncateTime) : 00:00 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19137) Limiter la charge utile de fichier .lg (-limitLgPayload) : Not Enabled 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (12815) Verrouiller hachage table/taille table (-lkhash) : 1237 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (17805) Algorithme de libération des verrous d'origine (-lkrela) : Not Enabled 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (19090) Nombre d'objets LOB inclus dans la collection de statistiques (-lobrangesize) : 50 
+[2022/08/16@15:04:33.116+0100] P-11812      T-9688  I BROKER  0: (17560) Nombre de sauts forcés de LRU (-lruskips) : 100 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (17561) Nombre de sauts forcés de LRU2 (-lru2skips) : 0 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (13953) Nombre maximum de zones (-maxArea) : 32000. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (5649)  N° de port maximum pour Auto Serveurs (-maxport) : 5000. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (12540) Taille de la table de transaction JTA (-maxxids):  100 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (5648)  N° de port minimum pour Auto Serveurs (-minport) : 3000. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (17564) Taille du cache de la partition multi-tenant (-mtpmsize) : 1024 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (12821) Utilise muxlatches (-mux): 1 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (4260)  Nombre maximum d'utilisateurs (-n) : 21. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (17566) Délai minimal avant mise en veille lors de la première expiration de -spin (-nap) : 10. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (17565) Délai maximal avant mise en veille lors de l'expiration de -spin (-napmax) : 250. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (18522) Pas de vérification d'hôte SSL (-nohostverify) : Not Enabled 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (17807) Désactiver le mécanisme LRU (-nolru) : Not Enabled 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (12273) Pas de cache de session SSL (-nosessioncache) : Not Enabled 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (18521) Pas de réutilisation de session SSL (-nosessionreuse) : Not Enabled 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (16689) Gouverneur de connexion (-nGovernor) : 0 sur 32000. 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (18398) Nombre de statistiques de points de contrôle pour enregistrer (-numCheckpointStats) : 32 
+[2022/08/16@15:04:33.117+0100] P-11812      T-9688  I BROKER  0: (19122) Omettre les messages de fichier .lg (-omitLgMsgs) :  
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (8527)  Taille de la mémoire cache de l'objet de stockage (-omsize) : 1024 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (13870) Database Service Manager - Taille de la file d'attente IPC (-pica) : 128.0 KBytes. 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (19347) Temps de sieste maximal lorsque l'accès à la file d'attente PICA est bloqué (-picanap) : 1 ms 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17802) Segments de mémoire partagée verrouillés (-pinshm) : Not Enabled 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (16953) Utiliser un mécanisme de jeu d'interrogations pour le client/serveur (-pollset) : Not Enabled 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (16955) Délai du premier message de prérécupération (-prefetchDelay) : Enabled 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (16956) Pourcentage de remplissage du message de prérécupération (-prefetchFactor) : 100 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (16957) Enregistrements minimums dans le message de prérécupération (-prefetchNumRecs) : 64 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (16958) Priorité d'interrogation de la file d'attente de suspension (-prefetchPriority) : 1 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17568) Durée du cycle de lecture de la file d'attente APW en millisecondes (-pwqdelay) : 100. 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17569) Longueur minimale de la file d'attente APW avant écriture (-pwqmin) : 1. 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17570) Durée du cycle de lecture du tampon APW en secondes (-pwsdelay) : 1. 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2022/08/16@15:04:33.118+0100] P-11812      T-9688  I BROKER  0: (4247)  Fichier E/S avant image (-r -R) : Reliable. 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (17563) Facteur de profondeur de recherche de la chaîne sans enregistrement (-recspacesearchdepth) : 5 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (19133) File d'attente Lock Wait de schéma (-schlockwq) : Not Enabled 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (18478) Taille du cache de sécurité (-secsize) : 512 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (6526)  Nombre de sémaphores (-semsets) 3. 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (12264) Délai d'expiration de session SSL (-sessiontimeout) : 0 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (13924) Taille maximum du segment de mémoire partagée (-shmsegsize) 1024 Mo. 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (4243)  Valeur actuelle des tentatives de verrouillage rotatif (-spin) : 1. 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (17803) Cryptage SSL pour connexions TCP/IP (-ssl) : Not Enabled 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (19329) Database server side join support (-ssj) : Not Enabled 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (20402) STS Socket Reuse (-stsSocketReuse): Yes 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (18525) Niveau de journalisation de débogage STS par défaut (-stslogginglevel) : 0 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (17556) Nombre de tables incluses dans la collecte de statistiques : (-tablerangesize) 50. 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (19151) Serveur de base de données multithread (-threadedServer) : Not Enabled 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (19159) Taille de pile de thread pour les serveurs de base de données multithread (-threadedServerStack) : 512 Ko 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (18407) Nombre d'index par utilisateur inclus dans la collection de statistiques (-userindexrangesize) : 50 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (19089) Nombre d'objets LOB par utilisateur inclus dans la collection de statistiques (-userlobrangesize) : 50 
+[2022/08/16@15:04:33.119+0100] P-11812      T-9688  I BROKER  0: (18118) Heure de notification de l'utilisateur (-userNotifyTime) : 600 secondes 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (18405) Nombre de tables par utilisateur incluses dans la collection de statistiques (-usertablerangesize) : 50 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (14017) Area block consistency check in area "" (-AreaCheck): Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4239)  Nombre de mémoires tampon de la base de données (-B) : 3000. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (17562) Nombre de zones de mémoire tampon alternatives (-B2) : 0. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (9422)  Nombre maximum de mémoires tampon privées par utilisateur (-Bpmax) : 64. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (13869) Database Service Manager - Service(s) à démarrer (-DBService) : Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4237)  Accès forcé (-F) : Not Enabled. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4249)  Intervalle de troncature avant image (BI) (-G) : 0. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4261)  Nom de l'hôte (-H) : LAPTOP-JQJRHBVA. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (14018) Index block consistency check in index "", partitionID -32767(-IndexCheck): Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4241)  Taille actuelle de la table de verrouillage (-L) : 8192. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (16688) Gouverneur de verrou (-LGovernor) : 0%. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4257)  Nombre maximum de clients par serveur (-Ma) : 5. 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (14015) Memory overwrite check (-MemCheck): Not Enabled 
+[2022/08/16@15:04:33.120+0100] P-11812      T-9688  I BROKER  0: (4245)  Retard du "Before-Image Flush" (-Mf) : 3. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (4259)  Nombre minimum de clients par serveur (-Mi) : 1. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (12818) Message Buffer Size (-Mm): 8192 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (4258)  Nombre maximum de serveurs (-Mn) : 5. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (12819) Serveurs par Protocol (-Mp): 0 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (5647)  Nb. maximum de serveurs par broker (-Mpb) : 0. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (4240)  Taille de mémoire partagée dépassée (-Mxs) : 39. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (4263)  Type de réseau (-N) : TCP. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (16954) Temps d'attente de message réseau serveur (-Nmsgwait) : 2 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (10357) Délai d'attente de connexion du client dépassé (-PendConnTimeout) : 0. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (4262)  Nom du service (-S) : 9001. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (17804) Prise en charge du groupe de serveurs brokers (-ServerType) : BOTH 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (19342) Statistiques de mises à jour autonomes SQL (-SQLAutoStats) : OFF 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (10028) Nombre maximum de curseurs ouverts serveur SQL (-SQLCursors) : 50. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (20037) SQL Enable Core Generation (-SQLEnableCoreGeneration): OFF 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (20038) SQL Failure Driven Log (-SQLFailureDrivenLog): OFF 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (17567) Nombre de secondes pendant lequel un client SQL doit attendre un verrouillage d'enregistrement (-SQLLockWaitTimeout) : 5. 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (19134) Identifiant rowid SQL (-SQLQuotedRowid) : Standard 
+[2022/08/16@15:04:33.121+0100] P-11812      T-9688  I BROKER  0: (10026) Taille de la pile de serveur SQL (-SQLStack) : 1000. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (10027) Taille de la mémoire cache de l'instruction serveur SQL (-SQLStmtCache) : 100. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (10029) Taille [1 Ko unités] de la mémoire tampon de la table temporaire du serveur SQL (-SQLTempStoreBuff) : 1000. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (10030) Taille [1 Ko unités] de la capacité de stockage disque de la table temporaire du serveur SQL (-SQLTempStoreDisk) : 500000. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (10031) Taille [1 Ko unités] de la page de données de la table temporaire du serveur SQL (-SQLTempStorePageSize) : 8. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (17955) Troncation des données autorisée (-SQLTruncateTooLarge) : OFF 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (18156) Mise à jour du schéma autonome SQL (-SQLWidthUpdate) : OFF 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (14019) Record block consistency check in table "", partitionID -32767(-TableCheck): Not Enabled 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (17717) Nombre maximal de tentatives de verrouillage TXE (-TXERetryLimit) : 0. 
+[2022/08/16@15:04:33.122+0100] P-11812      T-9688  I BROKER  0: (13896) Nombre maximum de verrous de validation TXE (-TXESkipLimit) : 10000. 
+[2022/08/16@15:04:33.145+0100] P-11812      T-9688  I BROKER  0: (10836) Les connexions à la base de données ne sont pas autorisées en ce moment. 
+[2022/08/16@15:04:33.145+0100] P-11812      T-9688  I BROKER  0: (10471) Connexions aux bases de données activées. 
+[2022/08/16@15:04:34.238+0100] P-10156      T-12988 I SRV     1: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/08/16@15:04:34.267+0100] P-10156      T-12988 I SRV     1: (19552) Server with server num 1 logged in. 
+[2022/08/16@15:04:34.267+0100] P-10156      T-12988 I SRV     1: (5646)  Démarrage sur le port 3002 utilisant TCP IPV4 address 127.0.0.1, pid 10156. 
+[2022/08/16@15:04:34.809+0100] P-10156      T-12988 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/16@15:04:34.809+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/16@15:04:34.809+0100] P-10156      T-12988 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/16@15:04:34.904+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/16@15:05:57.410+0100] P-10632      T-2300  I SRV     3: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/08/16@15:05:57.423+0100] P-10632      T-2300  I SRV     3: (19552) Server with server num 2 logged in. 
+[2022/08/16@15:05:57.423+0100] P-10632      T-2300  I SRV     3: (5646)  Démarrage sur le port 3004 utilisant TCP IPV4 address 127.0.0.1, pid 10632. 
+[2022/08/16@15:05:57.993+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/16@15:05:57.993+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/16@15:05:57.993+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/16@15:05:58.004+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/16@15:06:03.158+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Wed Aug 17 10:26:41 2022
+[2022/08/17@10:26:41.039+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 4, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/17@10:26:41.040+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/17@10:26:41.040+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 4 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:26:41.061+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 4 défini le nom à yassi. 
+[2022/08/17@10:26:43.108+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 4, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:27:56.043+0100] P-10156      T-12988 I SRV     1: (739)   Déconnexion de l'utilisateur 2, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:30:53.053+0100] P-10156      T-12988 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/17@10:30:53.053+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/17@10:30:53.053+0100] P-10156      T-12988 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:30:53.062+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/17@10:36:04.077+0100] P-10156      T-12988 I SRV     1: (739)   Déconnexion de l'utilisateur 2, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:43:22.474+0100] P-10156      T-12988 I SRV     1: (742)   Connexion de 2, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/17@10:43:22.474+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/17@10:43:22.474+0100] P-10156      T-12988 I SRV     1: (17961) L'utilisateur 2 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/17@10:43:22.512+0100] P-10156      T-12988 I SRV     1: (7129)  Usr 2 défini le nom à yassi. 
+[2022/08/17@10:51:54.921+0100] P-14084      T-12916 I SQLSRV2 4: (19262) SQL Server 12.5.00 started, configuration: "LPFSEC.virtualconfig" 
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19552) SQL Server with server num 3 logged in.
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19265) "C:/db/LPFSEC/LPFSEC" started on IPv4 port 3008 for address 127.0.0.1, pid 14084 (0x00003704).
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19263) Thread stack size:  1024000  (bytes).
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19270) DLC from ENVIRONMENT VARIABLE is: C:\Progress\OpenEdge
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19270) WRKDIR from REGISTRY is: C:\OpenEdge\WRK\
+[2022/08/17@10:51:54.952+0100] P-14084      T-12916 I SQLSRV2 4: (19270) JDKHOME from ENVIRONMENT VARIABLE is: C:\PROGRA~1\Java\JDK-11~1.4
+[2022/08/17@10:51:54.953+0100] P-14084      T-12916 I SQLSRV2 4: (19270) JREHOME from ENVIRONMENT VARIABLE is: C:\PROGRA~1\Java\JDK-11~1.4
+[2022/08/17@10:51:54.953+0100] P-14084      T-12916 I SQLSRV2 4: (19270) CLASSPATH from DEFAULT is: 
+[2022/08/17@10:51:54.953+0100] P-14084      T-12916 I SQLSRV2 4: (19271) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2022/08/17@10:51:54.992+0100] P-14084      T-12916 I SQLSRV2 4: (19260) server control: JVM Parameter Monitoring Service start status= 0
+[2022/08/17@10:51:55.012+0100] P-14084      T-13076 I SQLSRV2 4: (19243) sql_engine: SQL service thread for client begun
+[2022/08/17@10:51:55.012+0100] P-14084      T-13076 I SQLSRV2 4: (19288) service name: JVM Param Service : Thread 13076 is executing.
+[2022/08/17@10:51:55.241+0100] P-14084      T-13776 I SQLSRV2 4: (8873)  Login usernum 5, remote SQL client. 
+[2022/08/17@10:51:55.262+0100] P-14084      T-13776 I SQLSRV2 4: (7129)  Usr 5 défini le nom à yassi. 
+[2022/08/17@10:51:55.262+0100] P-14084      T-13776 I SQLSRV2 4: (19205) SQLLockWaitTimeout 5 
+[2022/08/17@10:51:55.299+0100] P-14084      T-13776 I SQLSRV2 4: (19198) Login by user 5. Using TCP/IP IPV4 address 127.0.0.1
+
+                Thu Aug 18 10:18:09 2022
+[2022/08/18@10:18:09.867+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@10:18:09.868+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@10:18:09.868+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@10:18:09.891+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@10:18:15.952+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:06:49.101+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:06:49.124+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:06:49.124+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:06:49.146+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:06:54.772+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:07:34.262+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:07:34.262+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:07:34.262+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:07:34.271+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:07:53.475+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:24:56.890+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:24:56.890+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:24:56.890+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:24:56.899+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:28:13.741+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:29:42.438+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:29:42.438+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:29:42.438+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:29:42.457+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:30:05.900+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:34:54.789+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:34:54.789+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:34:54.789+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:34:54.799+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:35:35.635+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:36:01.740+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:36:01.740+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:36:01.740+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:36:01.748+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:36:27.030+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:37:17.285+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:37:17.285+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:37:17.286+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:37:17.293+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:37:49.972+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:38:48.561+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@13:38:48.561+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:38:48.561+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@13:38:48.571+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@13:39:04.869+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:13.480+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@14:01:13.481+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:13.481+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:13.490+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:15.506+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:23.094+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@14:01:23.094+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:23.094+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:23.110+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:27.132+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:48.373+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@14:01:48.373+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:48.373+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:01:48.381+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:01:49.384+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:03:09.070+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@14:03:09.070+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:03:09.070+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:03:09.080+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:03:48.897+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:46:35.201+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@14:46:35.202+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:46:35.202+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@14:46:35.286+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@14:49:01.785+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/18@16:16:00.238+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/18@16:16:00.238+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/18@16:16:00.238+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/18@16:16:00.435+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+
+                Fri Aug 19 10:09:33 2022
+[2022/08/19@10:09:33.404+0100] P-19204      T-19232 I SRV     7: (452)   Connexion de l'utilisateur yassi à CON:. 
+[2022/08/19@10:09:33.506+0100] P-19204      T-19232 I SRV     7: (19552) Server with server num 4 logged in. 
+[2022/08/19@10:09:33.506+0100] P-19204      T-19232 I SRV     7: (5646)  Démarrage sur le port 3011 utilisant TCP IPV4 address 127.0.0.1, pid 19204. 
+[2022/08/19@10:09:34.106+0100] P-19204      T-19232 I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@10:09:34.106+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:09:34.106+0100] P-19204      T-19232 I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:09:34.113+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:09:37.900+0100] P-19204      T-19232 I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:09:53.330+0100] P-19204      T-19232 I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@10:09:53.330+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:09:53.330+0100] P-19204      T-19232 I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:09:53.351+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:09:55.350+0100] P-19204      T-19232 I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:45:11.063+0100] P-19204      T-19232 I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@10:45:11.063+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:45:11.063+0100] P-19204      T-19232 I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:45:11.071+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@10:48:50.263+0100] P-19204      T-19232 I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@10:48:55.340+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:44:37.745+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:44:37.745+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:44:37.745+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:44:37.754+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:44:51.875+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:46:31.600+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:46:31.601+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:46:31.601+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:46:31.624+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:46:53.836+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:47:36.984+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:47:36.984+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:47:36.984+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:47:37.007+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:47:52.199+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:49:28.773+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:49:28.773+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:49:28.773+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:49:28.794+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:50:20.192+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:50:35.458+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:50:35.458+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:50:35.458+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:50:35.480+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:50:40.548+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:52:02.535+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:52:02.535+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:52:02.535+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:52:02.558+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:52:09.661+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:53:16.148+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@11:53:16.149+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:53:16.149+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@11:53:16.171+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@11:53:18.238+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@12:29:00.682+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@12:29:00.682+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@12:29:00.682+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@12:29:00.691+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@12:30:16.608+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@13:52:52.916+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@13:52:52.916+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@13:52:52.916+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@13:52:52.933+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/19@14:10:26.463+0100] P-19204      T-19232 I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/19@14:10:26.463+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@14:10:26.463+0100] P-19204      T-19232 I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/19@14:10:26.472+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/19@14:10:36.560+0100] P-19204      T-19232 I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/19@14:13:21.532+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+
+                Sat Aug 20 10:27:55 2022
+[2022/08/20@10:27:55.271+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:27:55.271+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:27:55.271+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:27:55.281+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:28:03.362+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:28:41.470+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:28:41.470+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:28:41.470+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:28:41.492+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:28:43.486+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:28:52.358+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:28:52.358+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:28:52.358+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:28:52.367+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:28:54.382+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:30:16.506+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:30:16.506+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:30:16.506+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:30:16.517+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:30:27.625+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:36:31.549+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:36:31.549+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:36:31.549+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:36:31.573+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:36:42.692+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:37:39.976+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:37:39.976+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:37:39.976+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:37:39.985+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:37:49.073+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:43:39.632+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:43:39.632+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:43:39.632+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:43:39.656+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:43:51.794+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:44:28.158+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:44:28.159+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:44:28.159+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:44:28.182+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:44:37.290+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:45:56.512+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:45:56.512+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:45:56.512+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:45:56.536+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:48:01.749+0100] P-19204      T-19232 I SRV     7: (742)   Connexion de 8, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:48:01.749+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/20@10:48:01.749+0100] P-19204      T-19232 I SRV     7: (17961) L'utilisateur 8 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:48:01.761+0100] P-19204      T-19232 I SRV     7: (7129)  Usr 8 défini le nom à yassi. 
+[2022/08/20@10:49:03.726+0100] P-19204      T-19232 I SRV     7: (739)   Déconnexion de l'utilisateur 8, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:49:05.871+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:54:17.749+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@10:54:17.749+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:54:17.749+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@10:54:17.771+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@10:55:49.771+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:00:53.187+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@11:00:54.265+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:00:54.265+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:00:54.288+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:01:06.445+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:02:02.215+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@11:02:02.215+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:02:02.215+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:02:02.239+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:02:09.328+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:04:00.834+0100] P-10632      T-2300  I SRV     3: (742)   Connexion de 6, identifiant yassi client type ABL , sur LAPTOP-JQJRHBVA using TCP/IP IPV4 address 127.0.0.1. 
+[2022/08/20@11:04:00.834+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:04:00.835+0100] P-10632      T-2300  I SRV     3: (17961) L'utilisateur 6 a défini tty sur LAPTOP-JQJRHBVA. 
+[2022/08/20@11:04:00.858+0100] P-10632      T-2300  I SRV     3: (7129)  Usr 6 défini le nom à yassi. 
+[2022/08/20@11:04:10.960+0100] P-10632      T-2300  I SRV     3: (739)   Déconnexion de l'utilisateur 6, identifiant yassi, sur LAPTOP-JQJRHBVA. 
